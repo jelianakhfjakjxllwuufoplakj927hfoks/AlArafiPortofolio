@@ -1,0 +1,75 @@
+{
+  "profile": {
+    "name": "AL ARAFI NOOR ABDUL QORI",
+    "banner": "/static/Banner.jpg",
+    "bannerTitle": "Lorem|ipsum",
+    "bannerKicker": "",
+    "avatar": "/static/Profile.png",
+    "instagram": "https://instagram.com/aerteh_botol",
+    "linkedin": "https://www.linkedin.com/in/al-arafi-noor-abdul-qori-8b706742b/",
+    "email": "alarafi.noor@gmail.com",
+    "whatsapp": "6281381778940",
+    "whatsappGreeting": "Halo Al Arafi, saya tertarik dengan jasa video editing Anda."
+  },
+  "works": [
+    {
+      "videoUrl": "https://youtube.com/shorts/DLND-0I2FmM?si=gS7GM85N1RxFf9rh",
+      "thumbnail": "",
+      "label": "ContohLabel"
+    },
+    {
+      "videoUrl": "https://youtube.com/shorts/DLND-0I2FmM?si=gS7GM85N1RxFf9rh",
+      "thumbnail": "",
+      "label": "ContohLabel"
+    },
+    {
+      "videoUrl": "https://youtube.com/shorts/DLND-0I2FmM?si=gS7GM85N1RxFf9rh",
+      "thumbnail": "",
+      "label": "ContohLabel"
+    },
+    {
+      "videoUrl": "https://youtube.com/shorts/DLND-0I2FmM?si=gS7GM85N1RxFf9rh",
+      "thumbnail": "",
+      "label": "ContohLabel"
+    },
+    {
+      "videoUrl": "https://youtube.com/shorts/DLND-0I2FmM?si=gS7GM85N1RxFf9rh",
+      "thumbnail": "",
+      "label": "ContohLabel"
+    }
+  ],
+  "services": [
+    {
+      "number": "01 / SHORT FORM",
+      "title": "Short Form Editing (Talking Head) ",
+      "description": "Editing video TikTok,Reels, And Short with visual engaging, note 3 Revisions, Provide references to meet expectations.",
+      "price": 150000,
+      "unit": "video",
+      "whatsappService": "Short Form Editing - Talking Head"
+    },
+    {
+      "number": "02 / SHORT FORM",
+      "title": "Short Form (Vlog)",
+      "description": "Editing video TikTok,Reels, And Short with visual engaging, note 3 Revisions, Provide references to meet expectations.",
+      "price": 100000,
+      "unit": "video",
+      "whatsappService": "Short Form Editing - Vlog"
+    },
+    {
+      "number": "03 / LONG FORM",
+      "title": "Long Form Editing",
+      "description": "Editing Video YouTube with visual engaging, note 2 Revisions, Provide references to meet expectations.",
+      "price": 50000,
+      "unit": "menit",
+      "whatsappService": "Long Form Editing - YouTube"
+    },
+    {
+      "number": "04 / Package Long Term",
+      "title": "Package Long Term DM",
+      "description": "All Type Editing, note 3 Revisions.",
+      "price": "DM for discuss",
+      "unit": "",
+      "whatsappService": "Long Term Editing Partnership"
+    }
+  ]
+}
